@@ -1,6 +1,6 @@
 # ASLearn
 
-A project for the HackNYU 2022 Hackathon made by a team of 4. This application serves to help users learn American Sign Language and practice interactively with an in-built quiz function. 
+A project for the HackNYU 2022 Hackathon made by a team of 4. This application serves to help users learn American Sign Language and practice interactively with an built-in quiz function. 
 
 Below is a screenshot of the landing page:
 ![Screen Shot 2022-07-21 at 9 42 44 PM](https://user-images.githubusercontent.com/90710790/180343925-80d75415-40db-4766-a1b8-4a8ff6ac7d75.png)
